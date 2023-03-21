@@ -7,7 +7,7 @@ Um registro documental das suas perguntas e respostas obtidas em um determinado 
 
 Faça seu cadastro na plataforma da  [OpenAI](https://platform.openai.com/account/). Lá você vai obter todos os dados necessários para o acesso a API.
 
-##  Configuração de ambiente
+##  Clonando o respositório
  
 Clonando o respositório em ser servidor local:
 
@@ -17,7 +17,7 @@ git clone https://github.com/wevertoncamposdev/documenting_openai_requests.git
 cd documenting_openai_requests
 ```
 
-## Instalando as dependencias
+## Instalando as dependências
 
 ``` shell
 npm install
@@ -31,13 +31,13 @@ ORG_ID="your_organization_id"
 OPENAI_API_KEY="your_api_key"
 ```
 
-## Arquivos de pesquisa
-Crie a pasta **./doc** para armazenar seus arquivos de pesquisa.
-
-## Inicie a conversa
+## Iniciando uma conversa
 
 ``` shell
 node index.js
 ```
-Insira um nome para gerar o arquivo, esse nome será o nome do arquivo que será salvo em **./doc** e será o título da sua conversa. Em seguida divirta-se!
+Insira um nome para gerar o arquivo, esse nome será o nome do arquivo que será salvo em **./doc** e será o título da sua conversa. Agora **Divirta-se!**
 
+## Lista de comandos
+
+* **exit**: para finalizar a conversa
