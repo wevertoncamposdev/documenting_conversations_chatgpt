@@ -71,7 +71,7 @@ rl.question('Digite o nome do arquivo: ', (filename) => {
   const file = "doc/" + filename + ".md";
   const title = filename.charAt(0).toUpperCase() + filename.slice(1)
 
-  fs.appendFileSync(file, `\n## Nova conversa sobre: ${title}\n ${new Date(Date.now())}<hr/>\n`, (err) => {
+  fs.appendFileSync(file, `\n## Nova conversa sobre: ${title}\n ${new Date(Date.now())}\n\n`, (err) => {
     if (err) throw err
   });
 
