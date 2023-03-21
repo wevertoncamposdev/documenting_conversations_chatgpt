@@ -76,4 +76,3 @@ rl.question('Digite o nome do arquivo: ', (filename) => {
 
   main(file);
 });
-
