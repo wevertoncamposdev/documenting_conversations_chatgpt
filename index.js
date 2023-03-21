@@ -1,5 +1,6 @@
 const { Configuration, OpenAIApi } = require("openai");
 const readline = require('readline');
+const dotenv = require('dotenv').config();
 const fs = require('fs');
 
 const configuration = new Configuration({
