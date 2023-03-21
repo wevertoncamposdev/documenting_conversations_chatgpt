@@ -25,3 +25,7 @@ Tue Mar 21 2023 03:34:54 GMT-0300 (Horário Padrão de Brasília)
 
 Como posso ajudá-lo com um teste? Por favor, forneça mais informações ou detalhes sobre o que precisa ser testado.
 
+**Pergunta:** exit
+
+**Resposta:** Goodbye! 
+Tue Mar 21 2023 03:39:13 GMT-0300 (Horário Padrão de Brasília)
