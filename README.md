@@ -1,6 +1,6 @@
-##### Ajude um parceiro DEV
+# Ajude um parceiro DEV
 
-Preciso de ajuda para regularizar minha situação com o **MEI**, tenho guias parceladas e guias em atraso. Qualquer ajuda é bem-vinda. 
+Preciso de ajuda para regularizar minha situação com o **MEI**, tenho guias em parceladas atrasadas e guias atuais atraso. Qualquer ajuda é bem-vinda. 
 
 **PIX/CNPJ:** 24.811.012/0001-64
 
