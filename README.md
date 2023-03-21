@@ -1,6 +1,6 @@
 # Documenting OpenAI Requests
 <p align="justify">
- Um registro documental das suas perguntas e respostas obtidas em um determinado tema de estudo ou área de interesse. É uma forma de criar um arquivo de informações relevantes e úteis para referência futura e aprimoramento contínuo do seu conhecimento. Alguns termos que podem descrever essa prática são "anotações de estudo", "diário de aprendizado" ou "registro de perguntas e respostas".
+Um registro documental das suas perguntas e respostas obtidas em um determinado tema de estudo ou área de interesse. É uma forma de criar um arquivo de informações relevantes e úteis para referências futuras e aprimoramento contínuo do seu conhecimento. Alguns termos que podem descrever essa prática são "anotações de estudo", "diário de aprendizado" ou "registro de perguntas e respostas".
  <p>
 
  ##  Configuração de ambiente
