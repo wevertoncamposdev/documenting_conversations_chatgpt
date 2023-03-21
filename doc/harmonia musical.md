@@ -90,3 +90,7 @@ Algumas obras de exemplo que utilizam a harmonia polimodal são:
 - "Cantaloupe Island" de Herbie Hancock (https://www.youtube.com/results?search_query=cantaloupe+island)
 - "Giant Steps" de John Coltrane (https://www.youtube.com/results?search_query=giant+steps)
 
+**Pergunta:** exit
+
+**Resposta:** Goodbye! 
+Tue Mar 21 2023 02:46:54 GMT-0300 (Horário Padrão de Brasília)
