@@ -1,5 +1,5 @@
 
-## Nova conversa sobre harmonia musical!
+## Nova conversa sobre Harmonia Musical!
 Tue Mar 21 2023 02:11:55 GMT-0300 (Horário Padrão de Brasília)
 
 **Pergunta:** Liste todos os tipos de harmonia musical existentes na história da musica ordenando pelas mais populares primeiro
@@ -94,3 +94,4 @@ Algumas obras de exemplo que utilizam a harmonia polimodal são:
 
 **Resposta:** Goodbye! 
 Tue Mar 21 2023 02:46:54 GMT-0300 (Horário Padrão de Brasília)
+<hr>
