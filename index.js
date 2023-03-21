@@ -66,7 +66,7 @@ async function main(file) {
   }
 }
 
-rl.question('Digite o nome do arquivo: ', (filename) => {
+rl.question('Sobre o que você quer conversar? ', (filename) => {
   
   const file = "doc/" + filename + ".md";
   const title = filename.charAt(0).toUpperCase() + filename.slice(1)
