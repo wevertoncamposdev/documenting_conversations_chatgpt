@@ -21,7 +21,7 @@ async function getInput(prompt, file) {
 
       if (input === 'exit') {
 
-        fs.appendFileSync(file, "**Pergunta:** " + input + "\n\n" + `**Resposta:** Goodbye!\n ${new Date(Date.now())} <hr/>\n `, function (err) {
+        fs.appendFileSync(file, "**Pergunta:** " + input + "\n\n" + `**Resposta:** Goodbye!\n\n ${new Date(Date.now())} <hr/>\n `, function (err) {
           if (err) throw err;
         });
 
