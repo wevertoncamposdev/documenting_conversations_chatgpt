@@ -4,7 +4,7 @@ const dotenv = require('dotenv').config();
 const fs = require('fs');
 
 const configuration = new Configuration({
-  organization: "org-JHyFWljmE8BVYEvQnDB3OfuW",
+  organization: process.env.ORG,
   apiKey: process.env.OPENAI_API_KEY,
 });
 
