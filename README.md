@@ -1,7 +1,16 @@
+##### Ajude um parceiro DEV
+
+Preciso de ajuda para regularizar minha situação com o **MEI**, tenho guias parceladas e guias em atraso. Qualquer ajuda é bem-vinda. 
+
+**PIX/CNPJ:** 24.811.012/0001-64
+
+<hr>
+
 # Documenting OpenAI Requests
 <p align="justify">
 Um registro documental das suas perguntas e respostas obtidas em um determinado tema de estudo ou área de interesse. É uma forma de criar um arquivo de informações relevantes e úteis para referências futuras e aprimoramento contínuo do seu conhecimento. Alguns termos que podem descrever essa prática são "anotações de estudo", "diário de aprendizado" ou "registro de perguntas e respostas".
  <p>
+
 
 ## Cadastro
 
