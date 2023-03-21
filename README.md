@@ -15,7 +15,7 @@ Vou concluir a faculdade este ano e estou a procura de estágio na área. [Linke
 <p align="justify">
 Um registro documental das suas perguntas e respostas obtidas em um determinado tema de estudo ou área de interesse. É uma forma de criar um arquivo de informações relevantes e úteis para referências futuras e aprimoramento contínuo do seu conhecimento. Alguns termos que podem descrever essa prática são "anotações de estudo", "diário de aprendizado" ou "registro de perguntas e respostas".
 
-Com o acesso a API da OpenAI você conversa com o chatGPT via terminal, e todas as suas conversas serão armazenadas automaticamente em um arquivo markdown. Assim você foca somente na conversa e na construção da ideia enquanto tudo vai sendo documentado e armazenado para fácil acesso posteriormente.
+Com a API da OpenAI, você pode conversar com o chatGPT pelo terminal e salvar automaticamente todas as conversas em um arquivo para fácil acesso posterior. Isso permite que você se concentre na conversa e na construção de ideias, enquanto tudo é documentado em segundo plano.
 <p>
 
 <hr>
