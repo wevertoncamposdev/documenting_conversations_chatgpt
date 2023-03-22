@@ -616,6 +616,12 @@ Estes são apenas alguns exemplos de canais no YouTube que falam sobre NodeJS. �
  # Documentando o estudo
   Wed Mar 22 2023 16h
 
+  Definição:
+  
+  NodeJS é uma plataforma de programação de código aberto baseada em Javascript que é usada para construir aplicativos de servidor. Ele é caracterizado por sua capacidade de lidar com um grande número de conexões simultâneas e por ser extremamente escalável.
+
+  APIs RESTful, por sua vez, são um conjunto de padrões usados para criar e gerenciar web services. Elas seguem os princípios de arquitetura REST (Representational State Transfer), um conjunto de diretrizes para projetar sistemas web escaláveis e flexíveis.
+
   Estudar: 
   * Iniciando projeto com NodeJS
   * Debug de código.
