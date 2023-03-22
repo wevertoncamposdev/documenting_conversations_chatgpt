@@ -569,3 +569,9 @@ mongoose.connect('mongodb://localhost/mydatabase', {
 ```
 
 Esse exemplo utiliza o `mongoose` para criar e salvar o objeto `User` no banco de dados MongoDB. Além disso, a rota retorna o status 201 quando o usuário é cadastrado com sucesso ou 500 em caso de erro no servidor. É importante também fazer as devidas validações de entrada (por exemplo, utilizando um pacote como `joi` ou `express-validator`) e proteger as rotas que exigem autenticação.
+**Pergunta:** exit
+
+**Resposta:** Goodbye!
+
+ Wed Mar 22 2023 11:40:03 GMT-0300 (Horário Padrão de Brasília) <hr/>
+ 
