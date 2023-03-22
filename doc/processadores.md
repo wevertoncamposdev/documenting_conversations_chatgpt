@@ -68,3 +68,9 @@ Turbo Boost: é uma tecnologia utilizada pela Intel que aumenta a velocidade de 
 
 Overclocking: é uma técnica utilizada por alguns usuários para aumentar a velocidade do processador além do limite estabelecido pelo fabricante. Esse processo pode danificar o processador se for feito de forma inadequada, mas pode melhorar significativamente o desempenho em determinadas situações.
 
+**Pergunta:** exit
+
+**Resposta:** Goodbye!
+
+ Wed Mar 22 2023 09:55:38 GMT-0300 (Horário Padrão de Brasília) <hr/>
+ 
