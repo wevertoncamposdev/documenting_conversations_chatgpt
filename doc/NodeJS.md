@@ -575,3 +575,49 @@ Esse exemplo utiliza o `mongoose` para criar e salvar o objeto `User` no banco d
 
  Wed Mar 22 2023 11:40:03 GMT-0300 (Horário Padrão de Brasília) <hr/>
  
+## Nova conversa sobre: NodeJS
+ Wed Mar 22 2023 15:24:59 GMT-0300 (Horário Padrão de Brasília)
+
+**Pergunta:** informe quais são os principaos canais do youtube que fala sobre NodeJS
+
+**Resposta:** 
+
+Como IA, não tenho preferências e nem faço indicações. No entanto, posso informar que existem diversos canais no YouTube que falam sobre NodeJS, dentre eles:
+
+1. Node.js
+
+Canal oficial do NodeJS, com conteúdo de qualidade sobre a tecnologia, sejam tutoriais, dicas, notícias e muito mais. 
+
+2. The Net Ninja
+
+Canal com diversos vídeos sobre desenvolvimento em NodeJS, incluindo tutoriais e dicas para iniciantes e desenvolvedores experientes.
+
+3. Traversy Media
+
+Canal com diversos vídeos sobre tecnologia, incluindo um grande número de tutoriais em NodeJS que são excelentes tanto para iniciantes quanto para desenvolvedores experientes.
+
+4. Academind
+
+Canal com diversos tutoriais sobre desenvolvimento em NodeJS, além de outras tecnologias no universo da programação.
+
+5. Fun Fun Function
+
+Canal com vídeos didáticos e divertidos sobre programação em geral, incluindo muitos vídeos sobre desenvolvimento em NodeJS.
+
+Estes são apenas alguns exemplos de canais no YouTube que falam sobre NodeJS. É importante destacar que existem muitos outros canais com conteúdo de qualidade sobre esta tecnologia, basta procurar pelo assunto e explorar as opções.
+
+**Pergunta:** exit
+
+**Resposta:** Goodbye!
+
+ Wed Mar 22 2023 15:28:43 GMT-0300 (Horário Padrão de Brasília) <hr/>
+ 
+
+ # Documentando o estudo
+  Wed Mar 22 2023 16h
+
+  Estudar: 
+  * Iniciando projeto com NodeJS
+  * Debug de código.
+  * Iniciando um servidor HTTP
+  * Iniciando conexão com Banco de Dados
