@@ -56,3 +56,4 @@ A partir deste ponto, o VSCode abrirá o Chrome e permitirá que você depure o 
 
  Wed Mar 22 2023 23:20:07 GMT-0300 (Horário Padrão de Brasília) <hr/>
  
+ https://learn.microsoft.com/pt-br/training/browse/
