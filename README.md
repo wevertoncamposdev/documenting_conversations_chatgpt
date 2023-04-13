@@ -1,16 +1,3 @@
-### 🚨 AJUDE UM PARCEIRO DEV 🚨
-**PIX/CNPJ:** 24.811.012/0001-64
-
-Preciso de ajuda para regularizar minha situação com o **MEI**.
-Tenho parceladas atrasadas e guias atuais em atraso totalizando quase 1000,00. 
-Qualquer ajuda é bem-vinda. 🙏
-
-#### 🚨 ESTÁGIO 🚨
-Vou concluir a faculdade este ano e estou a procura de estágio na área. [LinkedIn](https://www.linkedin.com/in/wevertoncamposdev)
-
-
-<hr>
-
 # Documenting OpenAI Requests
 <p align="justify">
 Um registro documental das suas perguntas e respostas obtidas em um determinado tema de estudo ou área de interesse. É uma forma de criar um arquivo de informações relevantes e úteis para referências futuras e aprimoramento contínuo do seu conhecimento. Alguns termos que podem descrever essa prática são "anotações de estudo", "diário de aprendizado" ou "registro de perguntas e respostas".
